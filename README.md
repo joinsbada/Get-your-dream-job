@@ -88,7 +88,8 @@ Coding: In the next 6 weeks just focus on coding and design problems and solve a
 Mock interviews: In the last 2 weeks before you have to start to interview it makes sense to start scheduling some mock interviews. You can do these through your friends or through companies such as Interviewing.io etc. These will help you get into the rhythm of giving interviews and also prepare you for the problems mentally.
 Reach-out to your Network for interviews: Last, but not the least start reaching out to friends, alumni, recruiters, professional networks (such as LinkedIn), recruitment platforms (such as Hired) etc. to schedule interviews.
 
-Pick a language you know well. Source: https://airbrake.io/blog/comics/best-programming-xkcd-comics
+Pick a language you know well.
+
 Strategy
 
 Consistency is key: Remain consistent, no matter what. As you start working through the problems there will be many days where you will not be able to make any progress and there will be days when you will breeze through the set of problems. In both the situations, remain focussed and solve problems consistently. Eventually, you will start to enjoy the process of solving problems once you become very clear with the concepts and patterns of the problems.
